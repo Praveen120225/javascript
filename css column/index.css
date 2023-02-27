@@ -1,0 +1,23 @@
+.container{
+    color: rgb(220, 60, 60);
+    background: rgb(202, 202, 238);
+font-style: italic;
+/* width: 50%; */
+display: flex;
+
+}
+.column{
+    height: 50%;
+     width: 33.3%; 
+    justify-content: center;
+}
+.col{
+    display: flex;
+    width: 33.3%;
+    float: right;
+    justify-content: flex-end;
+    align-items: center;
+    /* margin-top: -5%; */
+    background: rgb(202,202,238);
+    font-style: italic;
+}
